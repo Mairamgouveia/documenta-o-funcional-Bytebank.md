@@ -20,7 +20,7 @@ Para ter uma conta Bytebank você precisa ter no mínimo 18 anos, ser residente 
 
 ### Como criar sua conta
 
-Você pode criar sua conta direto pelo site do Bytebank clicando na opção Criar conta Bytebank. 
+Você pode criar sua conta direto pelo site ou aplicativo do Bytebank clicando na opção Criar conta Bytebank. 
 
 Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [**Como criar sua conta**](URL) 
 
